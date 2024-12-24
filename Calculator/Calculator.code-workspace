@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../harry1"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../Learning_javascript"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../Spotify_Clone"
+		}
+	]
+}

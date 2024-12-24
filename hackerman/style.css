@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+          font-family:'Times New Roman', Times, serif;
+          font-size: 25px;
+          color: #15d515;
+          background: black;
+  }
